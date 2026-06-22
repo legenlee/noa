@@ -1,6 +1,6 @@
 #panel {
-  border-radius: 8px;
-  margin: 4px 16px;
+  border-radius: 10px;
+  margin: 4px 24px;
   height: 2.8em;
   background-color: rgba(0, 0, 0, 0.4) !important;
 }
